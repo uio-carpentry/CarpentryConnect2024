@@ -10,4 +10,6 @@ Briefly, the idea of having an expanded version of ResearchBazaar was discussed 
 
 Express your ideas, wishes, comments, etc. around CarpentryConnect2021 in Oslo by creating or commenting on an [Issue](Issues).
 
+## Useful Resources
 
+[CarpentryConnect Planning Kit](https://carpentryconnect.org/)
