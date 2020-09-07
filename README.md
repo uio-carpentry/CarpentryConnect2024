@@ -8,7 +8,7 @@ Briefly, the idea of having an expanded version of ResearchBazaar was discussed 
 
 ## How to Use/Contribute
 
-Express your ideas, wishes, comments, etc. around CarpentryConnect2021 in Oslo by creating or commenting on an [Issue](Issues).
+Express your ideas, wishes, comments, etc. around CarpentryConnect2021 in Oslo by creating or commenting on an [Issue](issues).
 
 ## Useful Resources
 
