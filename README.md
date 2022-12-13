@@ -1,5 +1,5 @@
-# CarpentryConnect2021
-UiO is planning a CarpentryConnect event in spring 2021 - if circumstances allow it
+# CarpentryConnect2024
+UiO is planning a CarpentryConnect event in spring 2024 - if circumstances allow it
 
 ## Initial Ideas - Pre-Planning
 
